@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CC\\OneDrive\\Desktop\\read\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289B8185-12E6-45DD-A004-66D3B4160CD5}|read\\read.csproj|c:\\users\\cc\\onedrive\\desktop\\read\\read\\read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289B8185-12E6-45DD-A004-66D3B4160CD5}|read\\read.csproj|solutionrelative:read\\read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "read.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\OneDrive\\Desktop\\read\\read\\read.cs",
+              "RelativeDocumentMoniker": "read\\read.cs",
+              "ToolTip": "C:\\Users\\CC\\OneDrive\\Desktop\\read\\read\\read.cs",
+              "RelativeToolTip": "read\\read.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:50:56.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

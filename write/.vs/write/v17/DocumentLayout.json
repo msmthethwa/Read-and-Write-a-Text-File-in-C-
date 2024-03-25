@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CC\\OneDrive\\Desktop\\write\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD3FBF-1C12-4B85-A275-EE1BD601A7BA}|write\\write.csproj|c:\\users\\cc\\onedrive\\desktop\\write\\write\\write.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD3FBF-1C12-4B85-A275-EE1BD601A7BA}|write\\write.csproj|solutionrelative:write\\write.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "write.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\OneDrive\\Desktop\\write\\write\\write.cs",
+              "RelativeDocumentMoniker": "write\\write.cs",
+              "ToolTip": "C:\\Users\\CC\\OneDrive\\Desktop\\write\\write\\write.cs",
+              "RelativeToolTip": "write\\write.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:37:02.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

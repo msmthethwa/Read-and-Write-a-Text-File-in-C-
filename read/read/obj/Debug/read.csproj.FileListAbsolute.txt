@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\read\read\bin\Debug\read.exe.config
+C:\Users\CC\OneDrive\Desktop\read\read\bin\Debug\read.exe
+C:\Users\CC\OneDrive\Desktop\read\read\bin\Debug\read.pdb
+C:\Users\CC\OneDrive\Desktop\read\read\obj\Debug\read.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\read\read\obj\Debug\read.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\read\read\obj\Debug\read.exe
+C:\Users\CC\OneDrive\Desktop\read\read\obj\Debug\read.pdb

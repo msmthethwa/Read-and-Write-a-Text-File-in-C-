@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\write\write\obj\Debug\write.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\write\write\obj\Debug\write.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\write\write\bin\Debug\write.exe.config
+C:\Users\CC\OneDrive\Desktop\write\write\bin\Debug\write.exe
+C:\Users\CC\OneDrive\Desktop\write\write\bin\Debug\write.pdb
+C:\Users\CC\OneDrive\Desktop\write\write\obj\Debug\write.exe
+C:\Users\CC\OneDrive\Desktop\write\write\obj\Debug\write.pdb
